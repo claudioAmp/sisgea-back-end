@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="sisgea-boot:war">
+    <output-path>$PROJECT_DIR$/sisgea-boot/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>sisgea-boot</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="sisgea#api.war">
+      <element id="artifact" artifact-name="sisgea-boot:war exploded" />
+    </root>
+  </artifact>
+</component>

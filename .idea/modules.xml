@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sisgea-back-end.iml" filepath="$PROJECT_DIR$/sisgea-back-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sisgea-boot/sisgea-boot.iml" filepath="$PROJECT_DIR$/sisgea-boot/sisgea-boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sisgea-consultas/sisgea-consultas.iml" filepath="$PROJECT_DIR$/sisgea-consultas/sisgea-consultas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sisgea-mantenimientos/sisgea-mantenimientos.iml" filepath="$PROJECT_DIR$/sisgea-mantenimientos/sisgea-mantenimientos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sisgea-procesos/sisgea-procesos.iml" filepath="$PROJECT_DIR$/sisgea-procesos/sisgea-procesos.iml" />
+    </modules>
+  </component>
+</project>

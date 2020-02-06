@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sisgea-mantenimientos" />
+        <module name="sisgea-boot" />
+        <module name="sisgea-consultas" />
+        <module name="sisgea-procesos" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="sisgea-back-end" target="1.8" />
+      <module name="sisgea-boot" target="1.8" />
+      <module name="sisgea-consultas" target="1.8" />
+      <module name="sisgea-mantenimientos" target="1.8" />
+      <module name="sisgea-procesos" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sisgea-back-end" options="-parameters" />
+      <module name="sisgea-boot" options="-parameters" />
+      <module name="sisgea-consultas" options="-parameters" />
+      <module name="sisgea-mantenimientos" options="-parameters" />
+      <module name="sisgea-procesos" options="-parameters" />
+    </option>
+  </component>
+</project>
